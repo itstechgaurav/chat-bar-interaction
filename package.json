@@ -1,0 +1,20 @@
+{
+  "name": "chat-bar-interaction",
+  "version": "1.0.0",
+  "description": "A simple html css js chat bar interaction compoenent",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myselfGroot/chat-bar-interaction.git"
+  },
+  "author": "Gaurav Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myselfGroot/chat-bar-interaction/issues"
+  },
+  "homepage": "https://myselfgroot.github.io/chat-bar-interaction"
+}
