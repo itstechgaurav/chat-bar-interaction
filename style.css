@@ -63,7 +63,7 @@ body {
     border-radius: 3rem;
     font-size: 2rem;
     font-family: 'Montserrat', sans-serif;
-    width: 290px;
+    width: calc(100% - 1rem);
 }
 
 #widget-input input::placeholder { color: #fff; }
@@ -72,7 +72,7 @@ body {
 #widgit-controls {
     display: flex;
     align-items: center;
-    width: 100%;
+    width: calc(100% - 7rem);
     height: 100%;
     position: absolute;
     margin-left: 7rem;
